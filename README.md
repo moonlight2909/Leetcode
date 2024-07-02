@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/moonlight2909/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/moonlight2909/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/moonlight2909/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/moonlight2909/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/moonlight2909/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/moonlight2909/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/moonlight2909/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
