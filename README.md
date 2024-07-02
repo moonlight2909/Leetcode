@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/moonlight2909/Leetcode/tree/master/0078-subsets) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/moonlight2909/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/moonlight2909/Leetcode/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
@@ -95,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/moonlight2909/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/moonlight2909/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/moonlight2909/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/moonlight2909/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
