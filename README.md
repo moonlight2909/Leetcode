@@ -114,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/moonlight2909/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/moonlight2909/Leetcode/tree/master/0090-subsets-ii) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/moonlight2909/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/moonlight2909/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
