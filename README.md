@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/moonlight2909/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/moonlight2909/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/moonlight2909/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0131-palindrome-partitioning](https://github.com/moonlight2909/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/moonlight2909/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/moonlight2909/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/moonlight2909/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/moonlight2909/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/moonlight2909/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/moonlight2909/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/moonlight2909/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/moonlight2909/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/moonlight2909/Leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
