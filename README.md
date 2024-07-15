@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/moonlight2909/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/moonlight2909/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/moonlight2909/Leetcode/tree/master/1803-average-waiting-time) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/moonlight2909/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/moonlight2909/Leetcode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/moonlight2909/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/moonlight2909/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/moonlight2909/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/moonlight2909/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/moonlight2909/Leetcode/tree/master/0131-palindrome-partitioning) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/moonlight2909/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/moonlight2909/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
