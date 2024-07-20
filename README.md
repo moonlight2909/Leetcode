@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/moonlight2909/Leetcode/tree/master/0155-min-stack) |
 | [1078-remove-outermost-parentheses](https://github.com/moonlight2909/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/moonlight2909/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2846-robot-collisions](https://github.com/moonlight2909/Leetcode/tree/master/2846-robot-collisions) |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/moonlight2909/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/moonlight2909/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
