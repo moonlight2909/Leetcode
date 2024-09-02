@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/moonlight2909/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/moonlight2909/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/moonlight2909/Leetcode/tree/master/1803-average-waiting-time) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/moonlight2909/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/moonlight2909/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/moonlight2909/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/moonlight2909/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/moonlight2909/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1046-max-consecutive-ones-iii](https://github.com/moonlight2909/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/moonlight2909/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/moonlight2909/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## String
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/moonlight2909/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1642-water-bottles](https://github.com/moonlight2909/Leetcode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/moonlight2909/Leetcode/tree/master/1803-average-waiting-time) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/moonlight2909/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/moonlight2909/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/moonlight2909/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/moonlight2909/Leetcode/tree/master/2846-robot-collisions) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/moonlight2909/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/moonlight2909/Leetcode/tree/master/1240-stone-game-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/moonlight2909/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Strongly Connected Component
 |  |
 | ------- |
