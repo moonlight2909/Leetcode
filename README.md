@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/moonlight2909/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/moonlight2909/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/moonlight2909/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/moonlight2909/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/moonlight2909/Leetcode/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/moonlight2909/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/moonlight2909/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/moonlight2909/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/moonlight2909/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/moonlight2909/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/moonlight2909/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/moonlight2909/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/moonlight2909/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/moonlight2909/Leetcode/tree/master/2502-sort-the-people) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/moonlight2909/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/moonlight2909/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/moonlight2909/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/moonlight2909/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/moonlight2909/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/moonlight2909/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/moonlight2909/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/moonlight2909/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/moonlight2909/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/moonlight2909/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Backtracking
 |  |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/moonlight2909/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/moonlight2909/Leetcode/tree/master/0090-subsets-ii) |
 | [0476-number-complement](https://github.com/moonlight2909/Leetcode/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/moonlight2909/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/moonlight2909/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Linked List
 |  |
