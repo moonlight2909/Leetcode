@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/moonlight2909/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/moonlight2909/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Bucket Sort
 |  |
 | ------- |
