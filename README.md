@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/moonlight2909/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0890-lemonade-change](https://github.com/moonlight2909/Leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/moonlight2909/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/moonlight2909/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/moonlight2909/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/moonlight2909/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/moonlight2909/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/moonlight2909/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/moonlight2909/Leetcode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/moonlight2909/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/moonlight2909/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/moonlight2909/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/moonlight2909/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0948-sort-an-array](https://github.com/moonlight2909/Leetcode/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/moonlight2909/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2379-maximum-total-importance-of-roads](https://github.com/moonlight2909/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/moonlight2909/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/moonlight2909/Leetcode/tree/master/0090-subsets-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/moonlight2909/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/moonlight2909/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/moonlight2909/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/moonlight2909/Leetcode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/moonlight2909/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/moonlight2909/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/moonlight2909/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/moonlight2909/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/moonlight2909/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0906-walking-robot-simulation](https://github.com/moonlight2909/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/moonlight2909/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0999-regions-cut-by-slashes](https://github.com/moonlight2909/Leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -350,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/moonlight2909/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/moonlight2909/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/moonlight2909/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1046-max-consecutive-ones-iii](https://github.com/moonlight2909/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/moonlight2909/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/moonlight2909/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
