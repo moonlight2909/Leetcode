@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/moonlight2909/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/moonlight2909/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/moonlight2909/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/moonlight2909/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/moonlight2909/Leetcode/tree/master/2846-robot-collisions) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/moonlight2909/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/moonlight2909/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/moonlight2909/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/moonlight2909/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2586-longest-square-streak-in-an-array](https://github.com/moonlight2909/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/moonlight2909/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/moonlight2909/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/moonlight2909/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/moonlight2909/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/moonlight2909/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Design
 |  |
 | ------- |
