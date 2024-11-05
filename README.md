@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/moonlight2909/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/moonlight2909/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/moonlight2909/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/moonlight2909/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/moonlight2909/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/moonlight2909/Leetcode/tree/master/3451-string-compression-iii) |
 ## Stack
