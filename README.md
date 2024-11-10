@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/moonlight2909/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/moonlight2909/Leetcode/tree/master/2846-robot-collisions) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/moonlight2909/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/moonlight2909/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/moonlight2909/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/moonlight2909/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/moonlight2909/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/moonlight2909/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/moonlight2909/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/moonlight2909/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/moonlight2909/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/moonlight2909/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/moonlight2909/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Recursion
 |  |
 | ------- |
