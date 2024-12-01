@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/moonlight2909/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/moonlight2909/Leetcode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/moonlight2909/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/moonlight2909/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/moonlight2909/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/moonlight2909/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/moonlight2909/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/moonlight2909/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/moonlight2909/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/moonlight2909/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/moonlight2909/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/moonlight2909/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/moonlight2909/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/moonlight2909/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/moonlight2909/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/moonlight2909/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/moonlight2909/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/moonlight2909/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/moonlight2909/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/moonlight2909/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/moonlight2909/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/moonlight2909/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/moonlight2909/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/moonlight2909/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/moonlight2909/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/moonlight2909/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/moonlight2909/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/moonlight2909/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/moonlight2909/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/moonlight2909/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1046-max-consecutive-ones-iii](https://github.com/moonlight2909/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/moonlight2909/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/moonlight2909/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/moonlight2909/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/moonlight2909/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
