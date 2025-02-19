@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2201-valid-arrangement-of-pairs](https://github.com/moonlight2909/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2379-maximum-total-importance-of-roads](https://github.com/moonlight2909/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/moonlight2909/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/moonlight2909/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-second-minimum-time-to-reach-destination](https://github.com/moonlight2909/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/moonlight2909/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/moonlight2909/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/moonlight2909/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/moonlight2909/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/moonlight2909/Leetcode/tree/master/3427-special-array-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/moonlight2909/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/moonlight2909/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/moonlight2909/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
