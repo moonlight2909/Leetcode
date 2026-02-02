@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/moonlight2909/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2379-maximum-total-importance-of-roads](https://github.com/moonlight2909/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/moonlight2909/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/moonlight2909/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/moonlight2909/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/moonlight2909/Leetcode/tree/master/2846-robot-collisions) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/moonlight2909/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/moonlight2909/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/moonlight2909/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/moonlight2909/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/moonlight2909/Leetcode/tree/master/3427-special-array-ii) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/moonlight2909/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/moonlight2909/Leetcode/tree/master/2502-sort-the-people) |
 | [2586-longest-square-streak-in-an-array](https://github.com/moonlight2909/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/moonlight2909/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/moonlight2909/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/moonlight2909/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/moonlight2909/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/moonlight2909/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/moonlight2909/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/moonlight2909/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/moonlight2909/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/moonlight2909/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Recursion
