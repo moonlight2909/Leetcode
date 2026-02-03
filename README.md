@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/moonlight2909/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/moonlight2909/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/moonlight2909/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3637-trionic-array-i](https://github.com/moonlight2909/Leetcode/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
