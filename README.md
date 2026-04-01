@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/moonlight2909/Leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/moonlight2909/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/moonlight2909/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/moonlight2909/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/moonlight2909/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/moonlight2909/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/moonlight2909/Leetcode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/moonlight2909/Leetcode/tree/master/0205-isomorphic-strings) |
