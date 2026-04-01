@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/moonlight2909/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/moonlight2909/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/moonlight2909/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2751-robot-collisions](https://github.com/moonlight2909/Leetcode/tree/master/2751-robot-collisions) |
 | [2846-robot-collisions](https://github.com/moonlight2909/Leetcode/tree/master/2846-robot-collisions) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/moonlight2909/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Heap (Priority Queue)
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/moonlight2909/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/moonlight2909/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/moonlight2909/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2751-robot-collisions](https://github.com/moonlight2909/Leetcode/tree/master/2751-robot-collisions) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/moonlight2909/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/moonlight2909/Leetcode/tree/master/2846-robot-collisions) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/moonlight2909/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/moonlight2909/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/moonlight2909/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/moonlight2909/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2751-robot-collisions](https://github.com/moonlight2909/Leetcode/tree/master/2751-robot-collisions) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/moonlight2909/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/moonlight2909/Leetcode/tree/master/2846-robot-collisions) |
 ## Math
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/moonlight2909/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/moonlight2909/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/moonlight2909/Leetcode/tree/master/2645-pass-the-pillow) |
+| [2751-robot-collisions](https://github.com/moonlight2909/Leetcode/tree/master/2751-robot-collisions) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/moonlight2909/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/moonlight2909/Leetcode/tree/master/2846-robot-collisions) |
 | [3379-transformed-array](https://github.com/moonlight2909/Leetcode/tree/master/3379-transformed-array) |
