@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/moonlight2909/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/moonlight2909/Leetcode/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/moonlight2909/Leetcode/tree/master/2645-pass-the-pillow) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/moonlight2909/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Trie
 |  |
 | ------- |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/moonlight2909/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/moonlight2909/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/moonlight2909/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/moonlight2909/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Tree
 |  |
 | ------- |
